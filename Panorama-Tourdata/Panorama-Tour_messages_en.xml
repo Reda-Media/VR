@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[New Project]]></data>
+
+
+
+  <data name="en_pano286_title"><![CDATA[خارجی-سردر]]></data>
+
+
+  <data name="en_pano284_title"><![CDATA[جنوبی-01]]></data>
+
+
+  <data name="en_pano285_title"><![CDATA[جنوبی-02]]></data>
+
+
+  <data name="en_pano289_title"><![CDATA[شرقی-01]]></data>
+
+
+  <data name="en_pano290_title"><![CDATA[شرقی-02]]></data>
+
+
+  <data name="en_pano288_title"><![CDATA[داخلی-مرکز]]></data>
+
+
+  <data name="en_pano287_title"><![CDATA[داخلی-رواق]]></data>
+
+
+
+
+
+
+  <data name="en_controlBar_classicprevSceneTip"><![CDATA[محیط قبل]]></data>
+  <data name="en_controlBar_classicnextSceneTip"><![CDATA[محیط بعد]]></data>
+  <data name="en_controlBar_classichomeTip"><![CDATA[خانه]]></data>
+  <data name="en_controlBar_classicopenFsTip"><![CDATA[تمام صفحه]]></data>
+  <data name="en_controlBar_classiccloseFsTip"><![CDATA[خروج از حالت تمام صفحه]]></data>
+  <data name="en_controlBar_classicsoundsOnTip"><![CDATA[صدا]]></data>
+  <data name="en_controlBar_classicsoundsOffTip"><![CDATA[بی صدا]]></data>
+  <data name="en_controlBar_classicshowThumbnailsTip"><![CDATA[نمایش ریز عکس ها]]></data>
+  <data name="en_controlBar_classichideThumbnailsTip"><![CDATA[مخفی کردن ریز عکس ها]]></data>
+  <data name="en_controlBar_classicdisplayFloorplanTip"><![CDATA[پلان راهنما]]></data>
+  <data name="en_controlBar_classichideFloorplanTip"><![CDATA[پلان راهنما]]></data>
+  <data name="en_controlBar_classicdisplayHelpTip"><![CDATA[راهنما]]></data>
+  <data name="en_controlBar_classichideHelpTip"><![CDATA[راهنما]]></data>
+  <data name="en_controlBar_classicdisplayInfoTip"><![CDATA[توضیحات]]></data>
+  <data name="en_controlBar_classichideInfoTip"><![CDATA[توضیحات]]></data>
+  <data name="en_controlBar_classicdisplayControlsTip"><![CDATA[کنترل پنل]]></data>
+  <data name="en_controlBar_classichideControlsTip"><![CDATA[کنترل پنل]]></data>
+  <data name="en_controlBar_classicctrlmodeDragTip"><![CDATA[کنترل دستی]]></data>
+  <data name="en_controlBar_classicctrlmodeMoveTip"><![CDATA[کنترل دستی]]></data>
+  <data name="en_buttontooltip"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title0"><![CDATA[سردر]]></data>
+  <data name="en_gallerypicture_caption0"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[سردر]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title2"><![CDATA[جنوبی]]></data>
+  <data name="en_gallerypicture_caption2"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title3"><![CDATA[شرقی]]></data>
+  <data name="en_gallerypicture_caption3"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title4"><![CDATA[جنوبی]]></data>
+  <data name="en_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title5"><![CDATA[شرقی]]></data>
+  <data name="en_gallerypicture_caption5"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title6"><![CDATA[جنوبی]]></data>
+  <data name="en_gallerypicture_caption6"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title7"><![CDATA[شرقی]]></data>
+  <data name="en_gallerypicture_caption7"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title8"><![CDATA[سردر]]></data>
+  <data name="en_gallerypicture_caption8"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title9"><![CDATA[جنوبی]]></data>
+  <data name="en_gallerypicture_caption9"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title10"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption10"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title11"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption11"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title12"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption12"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title13"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption13"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title14"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption14"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title15"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption15"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title16"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption16"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title17"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption17"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title18"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption18"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title19"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption19"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title20"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption20"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title21"><![CDATA[شرقی]]></data>
+  <data name="en_gallerypicture_caption21"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title22"><![CDATA[شرقی]]></data>
+  <data name="en_gallerypicture_caption22"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title23"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption23"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title24"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption24"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title25"><![CDATA[سردر]]></data>
+  <data name="en_gallerypicture_caption25"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title26"><![CDATA[سردر]]></data>
+  <data name="en_gallerypicture_caption26"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title27"><![CDATA[شرقی]]></data>
+  <data name="en_gallerypicture_caption27"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title28"><![CDATA[جنوبی]]></data>
+  <data name="en_gallerypicture_caption28"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title29"><![CDATA[شرقی]]></data>
+  <data name="en_gallerypicture_caption29"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title30"><![CDATA[جنوبی]]></data>
+  <data name="en_gallerypicture_caption30"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title31"><![CDATA[شرقی]]></data>
+  <data name="en_gallerypicture_caption31"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title32"><![CDATA[شرقی]]></data>
+  <data name="en_gallerypicture_caption32"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title33"><![CDATA[سردر]]></data>
+  <data name="en_gallerypicture_caption33"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title34"><![CDATA[شرقی]]></data>
+  <data name="en_gallerypicture_caption34"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title35"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption35"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title36"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption36"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title37"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption37"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title38"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption38"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title39"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption39"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title40"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption40"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title41"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption41"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title42"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption42"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title43"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption43"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title44"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption44"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title45"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption45"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title46"><![CDATA[جنوبی]]></data>
+  <data name="en_gallerypicture_caption46"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title47"><![CDATA[جنوبی]]></data>
+  <data name="en_gallerypicture_caption47"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title48"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption48"><![CDATA[]]></data>
+  <data name="en_gallerypicture_title49"><![CDATA[حیاط]]></data>
+  <data name="en_gallerypicture_caption49"><![CDATA[]]></data>
+  <data name="en_button2tooltip"><![CDATA[گالری]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
